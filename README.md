@@ -29,27 +29,14 @@ Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Estou
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/xXmarcosX">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xXmarcosX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xXmarcosX&layout=compact&theme=dracula"/>
-  </a>
-</div>
-
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXmarcosX&theme=dracula" alt="xXmarcosX" />
 </div>
 
 ---
 
-### 🐍 Snake Game
-
 <div align="center">
-  <img src="https://github.com/xXmarcosX/xXmarcosX/blob/output/github-contribution-grid-snake.svg" alt="snake game" />
+  <img src="https://github.com/xXmarcosX/xXmarcosX/blob/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
 </div>
 
 ---
