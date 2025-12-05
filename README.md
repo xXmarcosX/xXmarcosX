@@ -29,17 +29,11 @@ Sou um desenvolvedor apaixonado por tecnologia e resolução de problemas. Estou
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
+<br/>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXmarcosX&theme=dracula" alt="xXmarcosX" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://github.com/xXmarcosX/xXmarcosX/blob/output/github-contribution-grid-snake-dark.svg" alt="snake game" />
-</div>
-
----
 
 ### 📫 Conecte-se comigo
 
